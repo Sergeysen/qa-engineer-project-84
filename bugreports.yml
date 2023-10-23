@@ -30,7 +30,6 @@
     Google Chrome 118.0.5993.89 (Официальная сборка) (64 бит)
     OC Windows 10 Pro 22H2
   steps-to-reproduce: |
-
   expected-result: |
     Реализована возможность сброса выбранных параметров поиска
   actual-result: |
@@ -66,7 +65,6 @@
     Google Chrome 118.0.5993.89 (Официальная сборка) (64 бит)
     OC Windows 10 Pro 22H2
   steps-to-reproduce: |
-    
   expected-result: |
     Есть возможность сортировки по возрастанию/убыванию цены и рейтингу
   actual-result: |
