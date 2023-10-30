@@ -79,7 +79,7 @@
     Краткое описание тест кейса. Проверка корректного отображения на экране 1440x900, ОС macOS Monterey, браузер Firefox 118.
   status: pass
 
-  bugreports:
+bugreports:
 - summary: |
     Неккоректное отображение на мобильных устройствах
   environment: |
